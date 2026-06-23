@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chinese Academic PPT Maker"
+  short_description: "Create cautious, polished Chinese academic presentation decks."
+  default_prompt: "帮我做一份中文学术汇报PPT：主题、材料和目标如下。请先梳理口径，再生成PPT并检查版式。"
