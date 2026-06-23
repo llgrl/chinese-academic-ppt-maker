@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.zip
+*.pptx
+*.pdf
+*.docx
+*.xlsx
+*.json
+claim_ledger*.md
+pptx_text*.json
